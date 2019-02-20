@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("not rly a part of the project");
+            Console.WriteLine("not rly a part of the project + some changes");
         }
     }
 }
